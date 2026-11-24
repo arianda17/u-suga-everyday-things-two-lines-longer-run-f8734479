@@ -1,0 +1,2 @@
+Wi-Fi is like invisible roads in the air that carry invisible trucks of data between your devices and a faraway giant library, except the roads get crowded and trucks sometimes crash and have to resend themselves.
+It maps the router to a library, devices to destinations, and data to trucks, but leaves out encryption, frequency bands, and why walls slow the signal down.
